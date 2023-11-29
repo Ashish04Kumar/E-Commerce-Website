@@ -1,7 +1,6 @@
 import { createGlobalStyle } from "styled-components";
 
 export const GlobalStyle = createGlobalStyle`
-
 * {
   margin: 0;
   padding: 0;
@@ -44,6 +43,7 @@ h2,
 h3,
 h4 {
    font-family: "Work Sans", sans-serif;
+   
 
 }
 
